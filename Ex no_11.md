@@ -17,8 +17,8 @@ To write a C Program to convert a given decimal value to binary using function w
 ```
 /*
 Program to C Program to convert a given decimal value to binary using function without arguments with return type.
-Developed by: Ragupathi Raj M
-RegisterNumber: 212222060185
+Developed by: Sandhya M
+RegisterNumber: 212223060240
 */
 #include<stdio.h>
 Int dectobin(int d){
